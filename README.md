@@ -83,10 +83,9 @@ xnor(y7,a,b);
 endmodule
 ```
 **Logic symbol & Truthtable**
-![Screenshot 2024-03-15 140557](https://github.com/Yogesh-Yogi-1/study-of-basic-gates/assets/148514598/f32db198-004a-4925-a4b6-ccd681ebdd4b)
-
+![Screenshot 2024-11-21 025412](https://github.com/user-attachments/assets/be5aed0e-a73c-4c32-b3b3-bb1d5c6cc957)
 **RTL realization Output:** 
-![Screenshot 2024-03-21 222629](https://github.com/Yogesh-Yogi-1/study-of-basic-gates/assets/148514598/5a957cb3-5fed-4895-8edc-308f3bb193c2)
+![Screenshot 2024-11-21 025423](https://github.com/user-attachments/assets/7ecac842-e0da-4bb4-9fd7-d3539d5ac6fc)
 
 **RTL**
 
